@@ -26,7 +26,7 @@ Este proyecto fue construido con:
 
 ## Vista Previa
 
-Puedes ver una vista previa del diseño en [GitHub Pages](https://tu-repo.github.io) (reemplaza con la URL de tu despliegue).
+Puedes ver una vista previa del diseño en [Netlify](https://sociallinksprofile-main.netlify.app).
 
 ## Estructura del Proyecto
 
